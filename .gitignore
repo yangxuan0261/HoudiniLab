@@ -4,3 +4,6 @@
 /obj
 *.sln
 *.csproj
+
+/Assets/HoudiniEngineAssetCache
+/Assets/HoudiniEngineAssetCache.meta
